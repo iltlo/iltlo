@@ -1,7 +1,6 @@
 - 🔥 Hi, I’m a year 1 engineering student at HKU
 - 💫 I’m interested in robotics and astronomy
 - 🌱 I’m currently learning automation development
-- 🐣 My another github: https://github.com/ianiain0123
 - 📫 How to reach me: iltlo@connect.hku.hk
 
 <!---
