@@ -1,6 +1,7 @@
 - 🔥 Hi, I’m a computer science student at HKU
 - 💫 I’m interested in robotics and astronomy
 - 🌱 I’m currently learning automation development
+- 🌐 Check out my website for more projects: [iltlo.github.io](https://iltlo.github.io)
 - 📫 How to reach me: iltlo@connect.hku.hk
 
 <!---
