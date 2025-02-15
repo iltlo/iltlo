@@ -44,7 +44,7 @@ I'm passionate about **Robotics** and **Human-Robot Interaction**, and I love ex
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iltlo&show_icons=true&locale=en&layout=donut&theme=dracula" alt="Top Languages" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltlo&exclude_repo=Quadruped-Doggy,docker_ros2_interbotix&size_weight=0.7&count_weight=0.3&layout=compact&theme=dracula" alt="Top Languages" height="195px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=iltlo&show_icons=true&locale=en&theme=dracula&hide_rank=true" alt="GitHub Stats" height="195px"/>
   <img src="https://streak-stats.demolab.com/?user=iltlo&theme=dracula" alt="GitHub Streak" height="195px"/>
 </p>
