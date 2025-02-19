@@ -23,28 +23,16 @@ I'm passionate about **Robotics** and **Human-Robot Interaction**, and I love ex
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,haskell,ros,pytorch,docker,git,linux,vscode,ollama,platformio,lightroomclassic,ps,pr&theme=light" />
 </p>
 
-## 📌 Pinned Repositories
-<p align="center">
-  <a href="https://github.com/iltlo/feetech_arm_control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iltlo&repo=feetech_arm_control&theme=light" alt="Feetech Arm Control"/>
-  </a>
-  <a href="https://github.com/iltlo/vive_ros2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iltlo&repo=vive_ros2&theme=light" alt="VIVE ROS2"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/iltlo/Cube88">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iltlo&repo=Cube88&theme=light" alt="Cube88"/>
-  </a>
-  <a href="https://github.com/iltlo/Snake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iltlo&repo=Snake&theme=light" alt="Snake"/>
-  </a>
-</p>
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltlo&exclude_repo=Quadruped-Doggy,docker_ros2_interbotix&size_weight=0.7&count_weight=0.3&layout=compact&theme=dracula" alt="Top Languages" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iltlo&show_icons=true&locale=en&theme=dracula&hide_rank=true" alt="GitHub Stats" height="195px"/>
-  <img src="https://streak-stats.demolab.com/?user=iltlo&theme=dracula" alt="GitHub Streak" height="195px"/>
-</p>
+
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=iltlo&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iltlo&layout=compact&show_icons=true&theme=react" alt="iltlo github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltlo&exclude_repo=Quadruped-Doggy,docker_ros2_interbotix&size_weight=0.7&count_weight=0.3&layout=compact&theme=react" alt="iltlo github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iltlo&theme=merko&radius=8" alt="iltlo github readme activity graph" width="60%" />
+</div>
+
+<br />
