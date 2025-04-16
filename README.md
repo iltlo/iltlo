@@ -3,9 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Filtlo&count_bg=%233AE9BB&title_bg=%23828282&icon=googleanalytics.svg&icon_color=%23E9E9E9&title=Profile+Views&edge_flat=false"/>
-  </a>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/iltlo?color=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/iltlo?color=blue">
 </p>
