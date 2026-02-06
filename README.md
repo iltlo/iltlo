@@ -20,16 +20,4 @@ I'm passionate about **Robotics** and **Human-Robot Interaction**, and I love ex
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,c,python,haskell,ros,pytorch,docker,git,linux,vscode,ollama,platformio,lightroomclassic,ps,pr&theme=light" />
 </p>
 
-## 📊 GitHub Stats
-
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=iltlo&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iltlo&layout=compact&show_icons=true&theme=react" alt="iltlo github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltlo&exclude_repo=Quadruped-Doggy,docker_ros2_interbotix&size_weight=0.7&count_weight=0.3&layout=compact&theme=react" alt="iltlo github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=iltlo&theme=merko&radius=8" alt="iltlo github readme activity graph" width="60%" />
-</div>
-
 <br />
